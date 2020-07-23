@@ -1,4 +1,4 @@
-# Juros compostos [Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
+# Juros compostos   ![Badge](https://img.shields.io/badge/Status-Conclu%C3%ADdo-green)
 
 Projeto para cálculo de juros compostos com React utilizando React Hooks. Desenvolvido no bootcamp fullstack da IGTI.
 
@@ -7,10 +7,6 @@ Projeto para cálculo de juros compostos com React utilizando React Hooks. Desen
 <p align="center">
   <img src="https://github.com/cicerorod/igti-fullstack-mod3-react-juros-compostos-react-hooks/blob/master/img/tela.PNG">
 </p>
-
-## ![](https://img.icons8.com/ios-glyphs/20/000000/api.png) API utilizada para consumo dos dados
-
-`<link>` : <https://randomuser.me/api/?seed=rush&nat=br&results=5>
 
 ## ![](https://img.icons8.com/metro/20/000000/run-command.png) Execução
 
