@@ -2,7 +2,9 @@
 
 Projeto para cálculo de juros compostos com React utilizando React Hooks. Desenvolvido no bootcamp fullstack da IGTI.
 
-## <img src="https://img.icons8.com/ios-filled/20/000000/browser-window.png"/> Página ####(https://juros-compostos.vercel.app/)
+## <img src="https://img.icons8.com/ios-filled/20/000000/browser-window.png"/> Página 
+
+#### WebSite: https://juros-compostos.vercel.app/
 
 <p align="center">
   <img src="https://github.com/cicerorod/igti-fullstack-mod3-react-juros-compostos-react-hooks/blob/master/img/tela.PNG">
